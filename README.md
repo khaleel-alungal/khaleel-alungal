@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-Web Developer & IT Operations
+#### Web Developer & IT Operations
+
+- 🔭 I’m currently working on a HSE Training - a training platform for Health and Safety department to train the staffs and workers in an organization.
+- 🌱 I’m currently learning Angular and Spring Boot.
+- 💬 Ask me about anything related to Python , Django & IT Oprations.
+- 📫 You can get in touch with me by email at khaleel.alungal132@gmail.com..
+
+
 <!--
 **khaleel-alungal/khaleel-alungal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
