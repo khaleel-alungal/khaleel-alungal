@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a HSE Training - a training platform for Health and Safety department to train the staffs and workers in an organization.
 - 🌱 I’m currently learning Angular and Spring Boot.
 - 💬 Ask me about anything related to Python , Django & IT Oprations.
-- 📫 You can get in touch with me by email at khaleel.alungal132@gmail.com..
+- 📫 You can get in touch with me by email at khaleel.alungal132@gmail.com.
 
 
 <!--
